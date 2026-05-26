@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-foam/__init__.py
-lather.egg-info/PKG-INFO
-lather.egg-info/SOURCES.txt
-lather.egg-info/dependency_links.txt
-lather.egg-info/top_level.txt
