@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+foam/__init__.py
+foam.egg-info/PKG-INFO
+foam.egg-info/SOURCES.txt
+foam.egg-info/dependency_links.txt
+foam.egg-info/top_level.txt
